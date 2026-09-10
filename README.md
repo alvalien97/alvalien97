@@ -32,17 +32,6 @@ Desarrollador de software enfocado en **C/C++**, **Java**, **Python** y desarrol
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Redes
 
 <a href="https://www.linkedin.com/in/%C3%A1lvaro-valiente-aguayo-9ba4a738a/" target="_blank">
