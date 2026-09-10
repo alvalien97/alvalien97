@@ -40,15 +40,6 @@ Desarrollador de software enfocado en **C/C++**, **Java**, **Python** y desarrol
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Redes & Perfiles
 
 <a href="https://www.linkedin.com/in/%C3%A1lvaro-valiente-aguayo-9ba4a738a/" target="_blank">
