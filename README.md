@@ -1,4 +1,4 @@
-# 👋 Hola, soy Álvaro Valiente
+# 👋 Hola, soy Álvaro V
 
 Desarrollador de software enfocado en **C/C++**, **Java**, **Python** y desarrollo web/sistemas.
 
