@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Álvaro;Software+Developer;Wellcome+to+my+profile" alt="Typing SVG" />
   </h1>
 
-  <p>🚀 Desarrollador apasionado por crear soluciones eficientes y aprender tecnologías de bajo y alto nivel.</p>
+  <p>🚀 Desarrollador Full Stack.</p>
 
   <!-- Redes sociales o contacto -->
   <p align="center">
