@@ -9,7 +9,7 @@
 
   <!-- Redes sociales o contacto -->
   <p align="center">
-    <a href="[https://linkedin.com/in/TU_USUARIO" target="_blank](https://www.linkedin.com/in/%C3%A1lvaro-valiente-aguayo-9ba4a738a/)">
+    <a href="[https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/%C3%A1lvaro-valiente-aguayo-9ba4a738a/)" target="_blank]">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
